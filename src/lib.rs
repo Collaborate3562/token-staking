@@ -180,7 +180,7 @@ struct UnStakeParams {
 }
 
 #[receive(
-    contract = "nft-staking",
+    contract = "token-staking",
     name = "unstake",
     parameter = "UnStakeParams",
     error = "ContractError",
