@@ -1,5 +1,5 @@
 [package]
-name = "nft-staking"
+name = "token-staking"
 version = "0.1.0"
 authors = ["hejin@pixpel.mx"]
 edition = "2018"
